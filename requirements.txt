@@ -1,0 +1,8 @@
+httpx
+rich
+colorama
+requests
+pyfiglet
+aiohttp
+asyncio
+fake_useragent
